@@ -1,0 +1,65 @@
+body {
+    background-color: rgba(216, 212, 228, 0.671);
+    color: rgb(1, 8, 8);
+    /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h5 {
+font-size: x-large;
+
+}
+a {
+    color: rgb(124, 218, 144)
+}
+
+a:visited {
+    color: black;
+}
+
+img {
+
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+}
+
+.imgcenter{
+    border: 5px solid rgb(62, 83, 28);
+    padding: 3px;
+    margin: 5px;
+}
+
+.rizz {
+    background-color: rgb(161, 202, 161);
+    border: 5px solid rgb(44, 44, 20);
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+    font-family: cursive Cambria, Cochin, Georgia, Times, 'Times New Roman', serif }
+
+.heading{
+    color:rgb(207, 212, 195);
+    border: rgb(190, 23, 23);
+    background-color: rgb(37, 53, 37) ; 
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center
+}
+    
+
+.third{
+    font-weight: 900;
+    text-align: left;
+    font: size 20px;}
+
